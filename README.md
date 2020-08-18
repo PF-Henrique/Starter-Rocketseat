@@ -14,11 +14,9 @@
 </p>
 
 <p align="center">
-Acesse os Readmes com passo a passo, divididos em Front-end, Back-end e Mobile:
-    
-💻 **Acesse o Front-end [aqui](https://github.com/PF-Henrique/Starter-Rocketseat/tree/master/web)** | 
-🖥 **Acesse o Back-end [aqui](https://github.com/PF-Henrique/Starter-Rocketseat/tree/master/api)** | 
-📱 **Acesse o Mobile [aqui](https://github.com/PF-Henrique/Starter-Rocketseat/tree/master/mobile)** |
+  <a href="https://github.com/PF-Henrique/Starter-Rocketseat/tree/master/web">💻 Acesse o Front-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/PF-Henrique/Starter-Rocketseat/tree/master/api">🖥 Acesse o Back-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/PF-Henrique/Starter-Rocketseat/tree/master/mobile">📱 Acesse o Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 # 🚀 Welcome to huntweb
