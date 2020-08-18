@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-     ProductHunt API
+     ProductHunt App
 </h2>
 
 <h4 align="center">
