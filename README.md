@@ -44,7 +44,6 @@ It consists of a frontend interface to expose the API built in the [huntapi proj
     <li><a href="https://reactjs.org/" target="_blank">React</a></li>
     <li><a href="https://reactnative.dev/" target="_blank">React Native</a></li>  
 </ul>
----
 
 ## 🌎 Demonstration
 To help visualize the application, a demonstration was set up using [Rocketseat's API](https://rocketseat-node.herokuapp.com/api/products) as backend: **[click here](https://rhenangarcia.github.io/huntweb/build)** to see it.
