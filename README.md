@@ -13,6 +13,10 @@
   <a href="#-license">📚 License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
 </p>
 
+<h4 align="center">
+     Siga os passos descritos nos README.md de cada diretorio
+</h4>
+
 <p align="center">
   <a href="https://github.com/PF-Henrique/Starter-Rocketseat/tree/master/web">💻 Acesse o Front-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/PF-Henrique/Starter-Rocketseat/tree/master/api">🖥 Acesse o Back-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
