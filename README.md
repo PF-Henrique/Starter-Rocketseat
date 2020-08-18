@@ -55,8 +55,20 @@ Make sure you have installed all of the following prerequisites on your machine:
 
 ## 🔧 Install
 ```sh
-$ git clone https://github.com/rhenangarcia/huntweb
-$ cd huntweb/
+$ https://github.com/PF-Henrique/Starter-Rocketseat.git
+$ cd api/
+$ npm install -g yarn
+$ yarn install
+```
+
+```sh
+$ cd web/
+$ npm install -g yarn
+$ yarn install
+```
+
+```sh
+$ cd mobile/
 $ npm install -g yarn
 $ yarn install
 ```
