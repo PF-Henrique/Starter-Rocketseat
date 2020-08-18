@@ -38,8 +38,11 @@ Make sure you have installed all of the following prerequisites on your machine:
 ```sh
 $ react-native init <name your Project>
 $ cd <name your Project>/
-$ // Open emulator ios or android
+// **Open emulator ios or android** //
 $ react-native run-ios --simulator="IPhone X" or react-native run-android --simulator="Sansung A80"
+// **if close your aplication run** //
+$ cd <name your Project>/
+$ react-native start
 ```
 
 ## 🔧 Install
