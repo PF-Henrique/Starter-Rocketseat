@@ -22,6 +22,7 @@
   <a href="https://github.com/PF-Henrique/Starter-Rocketseat/tree/master/api">🖥 Acesse o Back-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/PF-Henrique/Starter-Rocketseat/tree/master/mobile">📱 Acesse o Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
+<br>
 
 # 🚀 Welcome to huntweb
 
@@ -116,7 +117,7 @@ Feel free to **file a new issue** with a respective title and description on the
 Give a ⭐️ if this project helped you!
 
 ## 📝 License
-This project is [MIT](LICENSE) licensed. 
+#### This project is [MIT](LICENSE) licensed. 
 ---
 
 ## ✨ Me
