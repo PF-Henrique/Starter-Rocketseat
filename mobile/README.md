@@ -34,6 +34,14 @@ Make sure you have installed all of the following prerequisites on your machine:
 * **[Node.js](https://nodejs.org/en/download/)** with npm package manager;
 * **[Android emulator](https://react-native.rocketseat.dev/android/emulador) or/and [iOS simulator](https://react-native.rocketseat.dev/ios/macos)**.
 
+## 🔧 Create React App
+```sh
+$ react-native init <name your Project>
+$ cd <name your Project>/
+$ // Open emulator ios or android
+$ react-native run-ios --simulator="IPhone X" or react-native run-android --simulator="Sansung A80"
+```
+
 ## 🔧 Install
 ```sh
 $ git clone https://github.com/PF-Henrique/Starter-Rocketseat/
