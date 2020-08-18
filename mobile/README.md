@@ -49,6 +49,14 @@ $ yarn install
 $ yarn android
 $ yarn start
 ```
+
+### Development Environment (iOS)
+* Start iOS simulator.
+```sh
+$ yarn ios
+$ yarn start
+```
+
 ## 👤 Author
 * **GitHub: [@PF-Henrique](https://github.com/PF-Henrique)**
 * **LinkedIn: [@PedroFerreira](https://www.linkedin.com/in/pedro-ferreira-148503b8/)**
@@ -107,13 +115,6 @@ Give a ⭐️ if this project helped you!
 <br />
 
 Made with 💙 by Pedro Ferreira 👋 [Talk to me!](https://www.linkedin.com/in/pedro-ferreira-148503b8/) :octocat:
-
-### Development Environment (iOS)
-* Start iOS simulator.
-```sh
-$ yarn ios
-$ yarn start
-```
 
 ### Production Environment
 * [Android devices](https://reactnative.dev/docs/signed-apk-android)
