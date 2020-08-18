@@ -21,7 +21,7 @@
 
 Application developed in the **[Starter / React Native Course](https://rocketseat.com.br/starter)** by **[Rocketseat](https://rocketseat.com.br/)**.
 
-It consists of a mobile application to expose the API built in the [huntapi project](https://rhenangarcia.github.io/huntapi), displaying the digital products stored in the Mongo database.
+It consists of a mobile application to expose the API built in the [huntapi project](https://github.com/PF-Henrique/Starter-Rocketseat/tree/master/api), displaying the digital products stored in the Mongo database.
 
 ## 🌎 Demonstration
 To help visualize the application, a demonstration was set up using [Rocketseat's API](https://rocketseat-node.herokuapp.com/api/products) as backend:
@@ -36,11 +36,16 @@ Make sure you have installed all of the following prerequisites on your machine:
 
 ## 🔧 Install
 ```sh
-$ git clone https://github.com/rhenangarcia/huntapp
+$ git clone https://github.com/PF-Henrique/Starter-Rocketseat/
 $ cd huntapp/
 $ npm install -g yarn
 $ yarn install
 ```
+
+### Production Environment
+* [Android devices](https://reactnative.dev/docs/signed-apk-android)
+* [iOS devices](https://readybytes.in/blog/how-to-deploy-a-react-native-ios-app-on-the-app-store)
+
 
 ## ⚙️ Usage
 ### Development Environment (Android)
@@ -115,7 +120,3 @@ Give a ⭐️ if this project helped you!
 <br />
 
 Made with 💙 by Pedro Ferreira 👋 [Talk to me!](https://www.linkedin.com/in/pedro-ferreira-148503b8/) :octocat:
-
-### Production Environment
-* [Android devices](https://reactnative.dev/docs/signed-apk-android)
-* [iOS devices](https://readybytes.in/blog/how-to-deploy-a-react-native-ios-app-on-the-app-store)
