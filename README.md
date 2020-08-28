@@ -142,7 +142,7 @@ Give a ⭐️ if this project helped you!
   </b>
 </sub>
 </a> 
-<a href="<a href="https:https://github.com/PF-Henrique/" title="ProductHunt">🚀👩‍🚀</a>
+<a href="<a href="https:https://github.com/PF-Henrique/" title="ProductHunt">🚀:octocat:</a>
 <br />
 
 Made with 💙 by Pedro Ferreira 👋 [Talk to me!](https://www.linkedin.com/in/pedro-ferreira-148503b8/) :octocat:
