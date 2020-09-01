@@ -1,0 +1,12 @@
+{
+    "name": "Cumprimentar a Todos Workflow",
+    "description": "Cumprimentar a Todos CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile*"
+    ]
+}
